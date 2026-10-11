@@ -1,4 +1,4 @@
-#Importando nuestra librerio
+#Importando nuestra libreria
 import tkinter as tk
 #Ventana 
 ventana = tk.Tk()
